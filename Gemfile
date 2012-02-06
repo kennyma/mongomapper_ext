@@ -1,7 +1,7 @@
 source :gemcutter
 
 gem 'mongo_mapper', '~> 0.8'
-gem 'uuidtools', '~> 2.0.0'
+gem 'uuidtools', '~> 2.1'
 gem 'i18n', '~> 0.4.1'
 gem 'tzinfo', '~> 0.3'
 
